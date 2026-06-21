@@ -14,7 +14,7 @@ total time worked
 time per project
 time over time (e.g., day/week/month)
 
-How it works  
+How it works:  
 
 (TODO: Describe the core model: what a “shift” is, how projects are represented, and how concurrent shifts behave.)
 
@@ -27,7 +27,7 @@ Installation
 Configuration  
 (TODO: Add environment variables / config file examples.)  
 
-Usage
+Usage:
 
 Quick start  
 (TODO: Add a minimal example.)  
@@ -41,7 +41,7 @@ Manual entry
 Projects & reporting  
 (TODO: Explain project creation/assignment and the available reports.)  
 
-Data model
+Data model:
 
 (TODO: Document fields stored for shifts and projects.)
 Roadmap
